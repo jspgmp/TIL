@@ -92,4 +92,7 @@ repo 에서 상대방 초대
 pull request 하기
 ```
 10. Branch 내용 main 에 합치기
-
+```
+git checkout main = main으로 변경
+git merge secondary = secondary 브랜치를 main으로 합병
+```
