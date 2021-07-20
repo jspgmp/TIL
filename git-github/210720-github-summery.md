@@ -71,9 +71,28 @@ git pull
 ```
 
 6. local git 과 remote git 연동하기
-
+```
+github에서 repo 생성
+code 주소를 복사
+원하는 폴더에서 git clone
+```
 7. Branch 생성과 변환하기
+```
+브랜치 생성 git branch 이름
+브랜치 변환 git checkout 이름
+```
 8. Branch 에서 파일 변경하기
+```
+브랜치 변경해놓고 vi 파일명.확장자
+편집-add-commit-push
+```
 9. Branch 에서 변경한 내용 코드리뷰 요청하기
+```
+repo 에서 상대방 초대
+pull request 하기
+```
 10. Branch 내용 main 에 합치기
-
+```
+git checkout main = main으로 변경
+git merge secondary = secondary 브랜치를 main으로 합병
+```
