@@ -70,5 +70,10 @@ git pull
 
 ```
 
-6. 
+6. local git 과 remote git 연동하기
+
+7. Branch 생성과 변환하기
+8. Branch 에서 파일 변경하기
+9. Branch 에서 변경한 내용 코드리뷰 요청하기
+10. Branch 내용 main 에 합치기
 
